@@ -1,0 +1,8 @@
+﻿  qsort_main.cpp
+D:\SSD256GBHD\Active_Original\Work\Teaching\CSE3081\숙제\21\HW2\Prog\qsort_orig\qsort\qsort_main.cpp(60,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\SSD256GBHD\Active_Original\Work\Teaching\CSE3081\숙제\21\HW2\Prog\qsort_orig\qsort\qsort_main.cpp(62,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  qsort.vcxproj -> D:\SSD256GBHD\Active_Original\Work\Teaching\CSE3081\숙제\21\HW2\Prog\qsort_orig\Release\qsort.exe
